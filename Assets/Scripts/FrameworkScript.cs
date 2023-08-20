@@ -6,7 +6,9 @@ public class FrameworkScript : MonoBehaviour
     public Text questionText;
     public Image[] answerImages;
     public Image correctImage;
+    public Button prevButton;
     public Button nextButton;
+    public AudioSource questionAudioSource; // 新增的 AudioSource 用于播放问题语音
 
     private int currentQuestionIndex = 0;
 
@@ -23,11 +25,11 @@ public class FrameworkScript : MonoBehaviour
 
     private void InitializeQuestions()
     {
-        // 初始化问题数组，每个问题都包含问题文本、答案图片数组和正确答案索引
+        // 初始化问题数组，每个问题都包含问题文本、答案图片数组、问题语音和正确答案索引
         questions = new Question[]
         {
-            new Question("这是问题1吗？", new Sprite[] { /* 设置答案图片 */ }, 0),
-            new Question("这是问题2吗？", new Sprite[] { /* 设置答案图片 */ }, 1),
+            new Question("这是问题1吗？", new Sprite[] { /* 设置答案图片 */ }, null, 0),
+            new Question("这是问题2吗？", new Sprite[] { /* 设置答案图片 */ }, null, 1),
             // ...
         };
     }
@@ -43,9 +45,19 @@ public class FrameworkScript : MonoBehaviour
             answerImages[i].sprite = questions[questionIndex].AnswerSprites[i];
         }
 
-        // 隐藏正确图片和下一页按钮
+        // 播放问题语音
+        if (questions[questionIndex].QuestionAudio != null)
+        {
+            questionAudioSource.clip = questions[questionIndex].QuestionAudio;
+            questionAudioSource.Play();
+        }
+
+        // 隐藏正确图片
         correctImage.gameObject.SetActive(false);
-        nextButton.gameObject.SetActive(false);
+
+        // 根据问题索引，控制上一页和下一页按钮的可交互状态
+        prevButton.interactable = questionIndex > 0;
+        nextButton.interactable = questionIndex < questions.Length - 1;
     }
 
     public void CheckAnswer(int selectedAnswerIndex)
@@ -54,9 +66,8 @@ public class FrameworkScript : MonoBehaviour
 
         if (isCorrect)
         {
-            // 显示正确的图片和下一页按钮
+            // 显示正确的图片
             correctImage.gameObject.SetActive(true);
-            nextButton.gameObject.SetActive(true);
         }
     }
 
@@ -67,6 +78,17 @@ public class FrameworkScript : MonoBehaviour
         if (currentQuestionIndex < questions.Length)
         {
             // 设置下一道问题
+            SetQuestionAndAnswers(currentQuestionIndex);
+        }
+    }
+
+    public void PrevQuestion()
+    {
+        currentQuestionIndex--;
+
+        if (currentQuestionIndex >= 0)
+        {
+            // 设置上一道问题
             SetQuestionAndAnswers(currentQuestionIndex);
         }
     }
@@ -83,12 +105,14 @@ public class Question
 {
     public string Text;
     public Sprite[] AnswerSprites;
+    public AudioClip QuestionAudio; // 新增问题语音属性
     public int CorrectAnswerIndex;
 
-    public Question(string text, Sprite[] answerSprites, int correctAnswerIndex)
+    public Question(string text, Sprite[] answerSprites, AudioClip questionAudio, int correctAnswerIndex)
     {
         Text = text;
         AnswerSprites = answerSprites;
+        QuestionAudio = questionAudio;
         CorrectAnswerIndex = correctAnswerIndex;
     }
 }

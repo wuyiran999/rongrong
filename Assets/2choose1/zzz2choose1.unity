@@ -969,7 +969,7 @@ RectTransform:
   m_GameObject: {fileID: 1750353836}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.4999999, y: 1.5, z: 1}
+  m_LocalScale: {x: 1.4, y: 1.5, z: 1}
   m_Children: []
   m_Father: {fileID: 365032627}
   m_RootOrder: 1
@@ -1000,17 +1000,17 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 63
-    m_FontStyle: 1
+    m_FontSize: 29
+    m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 63
-    m_MaxSize: 234
+    m_MinSize: 29
+    m_MaxSize: 224
     m_Alignment: 4
     m_AlignByGeometry: 1
     m_RichText: 0
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
-    m_LineSpacing: 205.9
+    m_LineSpacing: 205.32
   m_Text: "Question1\uFF1A\u4ECA\u5929\u5403\u4EC0\u4E48"
 --- !u!222 &1750353839
 CanvasRenderer:
