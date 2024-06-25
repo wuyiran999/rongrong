@@ -1,0 +1,115 @@
+﻿1
+00:00:00,000 --> 00:00:00,700
+创建链接热点
+
+2
+00:00:00,700 --> 00:00:01,401
+首先，从左面的菜单栏中点击“CTA Canvas” 
+
+3
+00:00:01,401 --> 00:00:03,036
+点击“CTA Area Mapping”
+
+4
+00:00:03,036 --> 00:00:04,571
+点击 “Insert a Hotspot Area” 
+
+5
+00:00:04,571 --> 00:00:07,841
+调整热点框到合适的位置和大小
+
+6
+00:00:07,841 --> 00:00:08,541
+Add URL to Hotspot
+
+7
+00:00:08,541 --> 00:00:11,378
+Click Button “URL” from left menu
+
+8
+00:00:11,378 --> 00:00:13,480
+Enter a title name
+
+9
+00:00:13,480 --> 00:00:17,350
+Enter the website URL you want to link
+
+10
+00:00:17,350 --> 00:00:18,485
+Click to confirm
+
+11
+00:00:18,485 --> 00:00:20,253
+Click Preview Button on top right
+
+12
+00:00:20,253 --> 00:00:21,054
+Click Preview Button on top right
+
+13
+00:00:21,054 --> 00:00:21,888
+Open the Preview window
+
+14
+00:00:21,888 --> 00:00:23,857
+Click Hotspot area you created
+
+15
+00:00:23,857 --> 00:00:26,793
+Now you can access the website you entered
+
+16
+00:00:26,793 --> 00:00:27,994
+Link to Vinmobi site
+
+17
+00:00:27,994 --> 00:00:29,429
+Now try to click “Select URL from VinMobi”
+
+18
+00:00:29,429 --> 00:00:31,798
+Choose one VinMobi Site and Confirm
+
+19
+00:00:31,798 --> 00:00:33,133
+Click Preview Button on top right
+
+20
+00:00:33,133 --> 00:00:34,434
+Open the Preview window
+
+21
+00:00:34,434 --> 00:00:36,503
+Click Hotspot area you created
+
+22
+00:00:36,503 --> 00:00:38,338
+Now you can access the Vinmobi site you choose
+
+23
+00:00:38,338 --> 00:00:39,572
+Link to VinDesk site
+
+24
+00:00:39,572 --> 00:00:40,340
+Now try to click “Select URL from VinDesk”
+
+25
+00:00:40,340 --> 00:00:42,509
+Now try to click “Select URL from VinDesk”
+
+26
+00:00:42,509 --> 00:00:45,512
+Choose one VinMobi Site and Confirm
+
+27
+00:00:45,512 --> 00:00:48,481
+Click Preview Button on top right
+
+28
+00:00:48,481 --> 00:00:50,750
+Click Hotspot area you created
+
+29
+00:00:50,750 --> 00:00:53,453
+Now you can access the VinDesk site you choose

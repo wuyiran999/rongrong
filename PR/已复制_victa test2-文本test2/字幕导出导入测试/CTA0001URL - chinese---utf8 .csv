@@ -1,0 +1,59 @@
+Start Time,End Time,Text,Layer ID
+,,,
+00;00;00;00,00;00;00;21,创建链接热点,1
+,,,
+00;00;00;21,00;00;01;12,首先，从左面的菜单栏中点击“CTA Canvas” ,1
+,,,
+00;00;01;12,00;00;03;01,点击“CTA Area Mapping”,1
+,,,
+00;00;03;01,00;00;04;17,点击 “Insert a Hotspot Area” ,1
+,,,
+00;00;04;17,00;00;07;25,调整热点框到合适的位置和大小,1
+,,,
+00;00;07;25,00;00;08;16,Add URL to Hotspot,1
+,,,
+00;00;08;16,00;00;11;11,Click Button “URL” from left menu,1
+,,,
+00;00;11;11,00;00;13;14,Enter a title name,1
+,,,
+00;00;13;14,00;00;17;10,Enter the website URL you want to link,1
+,,,
+00;00;17;10,00;00;18;14,Click to confirm,1
+,,,
+00;00;18;14,00;00;20;07,Click Preview Button on top right,1
+,,,
+00;00;20;07,00;00;21;01,Click Preview Button on top right,1
+,,,
+00;00;21;01,00;00;21;26,Open the Preview window,1
+,,,
+00;00;21;26,00;00;23;25,Click Hotspot area you created,1
+,,,
+00;00;23;25,00;00;26;23,Now you can access the website you entered,1
+,,,
+00;00;26;23,00;00;27;29,Link to Vinmobi site,1
+,,,
+00;00;27;29,00;00;29;12,Now try to click “Select URL from VinMobi”,1
+,,,
+00;00;29;12,00;00;31;23,Choose one VinMobi Site and Confirm,1
+,,,
+00;00;31;23,00;00;33;03,Click Preview Button on top right,1
+,,,
+00;00;33;03,00;00;34;12,Open the Preview window,1
+,,,
+00;00;34;12,00;00;36;14,Click Hotspot area you created,1
+,,,
+00;00;36;14,00;00;38;09,Now you can access the Vinmobi site you choose,1
+,,,
+00;00;38;09,00;00;39;16,Link to VinDesk site,1
+,,,
+00;00;39;16,00;00;40;09,Now try to click “Select URL from VinDesk”,1
+,,,
+00;00;40;09,00;00;42;14,Now try to click “Select URL from VinDesk”,1
+,,,
+00;00;42;14,00;00;45;14,Choose one VinMobi Site and Confirm,1
+,,,
+00;00;45;14,00;00;48;13,Click Preview Button on top right,1
+,,,
+00;00;48;13,00;00;50;21,Click Hotspot area you created,1
+,,,
+00;00;50;21,00;00;53;11,Now you can access the VinDesk site you choose,1
