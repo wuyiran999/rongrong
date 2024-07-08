@@ -1,0 +1,91 @@
+﻿1
+00:00:00,600 --> 00:00:01,601
+Aggiungi l'Url al Hotspot
+
+2
+00:00:01,601 --> 00:00:02,869
+Seleziona l'area hotspot desiderata
+
+3
+00:00:02,869 --> 00:00:04,137
+Poi assegna il tipo "URL" all'area hotspot
+
+4
+00:00:04,137 --> 00:00:06,239
+Inserisci Titolo
+
+5
+00:00:06,239 --> 00:00:08,742
+Inserisci qualsiasi sito web URL
+
+6
+00:00:08,742 --> 00:00:11,244
+Scegli se aprire l'URL nella 'Stessa Finestra' o in una 'Nuova Scheda'
+
+7
+00:00:11,244 --> 00:00:14,647
+Clicca il pulsante "anteprima" in alto a destra
+
+8
+00:00:14,647 --> 00:00:16,616
+Fai l'anteprima dell'area hotspot CTA per assicurarti che funzioni correttamente
+
+9
+00:00:16,616 --> 00:00:19,552
+Ora puoi accedere al sito web che hai inserito
+
+10
+00:00:19,552 --> 00:00:20,754
+Collegamento al sito Vinmobi
+
+11
+00:00:20,754 --> 00:00:22,188
+Ora prova a cliccare "Seleziona URL da VinMobi"
+
+12
+00:00:22,188 --> 00:00:24,557
+Scegli un sito VinMobi e Conferma
+
+13
+00:00:24,557 --> 00:00:25,892
+Clicca il pulsante "anteprima"
+
+14
+00:00:25,892 --> 00:00:27,761
+Apri la finestra di Anteprima
+
+15
+00:00:27,761 --> 00:00:29,262
+Clicca sull'area hotspot che hai creato
+
+16
+00:00:29,262 --> 00:00:31,097
+Ora puoi accedere al sito Vinmobi che hai scelto
+
+17
+00:00:31,097 --> 00:00:32,432
+Collegamento al sito VinDesk
+
+18
+00:00:32,432 --> 00:00:35,268
+Ora prova a cliccare "Seleziona URL da VinDesk"
+
+19
+00:00:35,268 --> 00:00:38,271
+Scegli un sito VinMobi e Conferma
+
+20
+00:00:38,271 --> 00:00:41,241
+Clicca il pulsante "anteprima" in alto a destra
+
+21
+00:00:41,241 --> 00:00:44,077
+Ora puoi accedere al sito VinDesk che hai scelto
+
+22
+00:00:44,077 --> 00:00:45,478
+Ecco fatto! Hai assegnato con successo un URL alla tua area hotspot.
+
+23
+00:00:45,478 --> 00:00:46,579
+Esplora altre funzionalità e migliora i tuoi progetti con VinCTA.

@@ -1,0 +1,20 @@
+﻿1
+00:00:00,000 --> 00:00:00,967
+Crea l'Area Hotspot
+
+2
+00:00:00,967 --> 00:00:03,303
+Prima, clicca su “CTA Canvas” e “CTA Area Mapping”
+
+3
+00:00:03,303 --> 00:00:04,838
+Clicca su “Inserisci un’Area Hotspot”
+
+4
+00:00:04,838 --> 00:00:06,706
+Ridimensiona e regola la posizione dell'area hotspot
+
+5
+00:00:06,706 --> 00:00:09,275
+Poi assegna all'area hotspot il tipo di CTA desiderata
+
