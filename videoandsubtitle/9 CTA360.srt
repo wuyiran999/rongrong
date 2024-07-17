@@ -1,0 +1,151 @@
+﻿1
+00:00:00,000 --> 00:00:01,234
+Aggiungi un'Immagine a 360° all'Hotspot
+
+2
+00:00:01,234 --> 00:00:03,169
+Per prima cosa, crea un'area hotspot e clicca su “Visualizzatore Immagine a 360” a sinistra
+
+3
+00:00:03,169 --> 00:00:06,106
+Torna al menu principale e clicca su “Libreria Multimediale”
+
+4
+00:00:06,106 --> 00:00:16,483
+Seleziona “Foto a 360” e aggiungi un'immagine a 360 dal tuo computer
+
+5
+00:00:16,483 --> 00:00:18,284
+Ora torna alla configurazione ETC
+
+6
+00:00:18,284 --> 00:00:20,120
+Aggiungi l'immagine a 360 che hai appena caricato nella tua libreria
+
+7
+00:00:20,120 --> 00:00:24,024
+Puoi anche caricare direttamente l'immagine a 360 dal tuo computer
+
+8
+00:00:24,024 --> 00:00:26,493
+Bene, ora proviamo il primo metodo di visualizzazione: “Sovrapposizione Schermo”
+
+9
+00:00:26,493 --> 00:00:29,763
+Imposta la dimensione della finestra e iniziamo posizionando il “punto di ancoraggio” in alto a sinistra
+
+10
+00:00:29,763 --> 00:00:31,898
+Ora fai anteprima
+
+11
+00:00:31,898 --> 00:00:33,299
+Clicca sull'area hotspot
+
+12
+00:00:33,299 --> 00:00:36,870
+Puoi vedere l'immagine a 360 in alto a sinistra che occupa metà dello schermo
+
+13
+00:00:36,870 --> 00:00:43,143
+Torniamo indietro e cambiamo il “punto di ancoraggio” al centro
+
+14
+00:00:43,143 --> 00:00:45,345
+Premi Anteprima di nuovo
+
+15
+00:00:45,345 --> 00:00:51,651
+Ora l'immagine a 360 è centrale
+
+16
+00:00:51,651 --> 00:00:54,754
+Successivamente, proviamo il secondo metodo di visualizzazione: “Incorpora al Centro del Blocco”
+
+17
+00:00:54,754 --> 00:00:59,726
+Ridimensioniamo l'area hotspot e clicchiamo su “Incorpora al Centro del Blocco” a destra
+
+18
+00:00:59,726 --> 00:01:01,494
+Premi Anteprima
+
+19
+00:01:01,494 --> 00:01:03,229
+Clicca sull'area hotspot
+
+20
+00:01:03,229 --> 00:01:06,366
+Puoi vedere che l'immagine a 360 è strettamente limitata all'area dell'hotspot
+
+21
+00:01:06,366 --> 00:01:08,034
+Questo è il metodo “Incorpora al Centro del Blocco”
+
+22
+00:01:08,034 --> 00:01:09,402
+Ora, proviamo il terzo metodo: “Finestra di Visualizzazione Preimpostata”
+
+23
+00:01:09,402 --> 00:01:15,141
+Per prima cosa, crea una nuova area hotspot e posizionala a sinistra
+
+24
+00:01:15,141 --> 00:01:17,644
+Impostala come “Finestra di Visualizzazione”
+
+25
+00:01:17,644 --> 00:01:20,313
+Inserisci un nome per la “Finestra di Visualizzazione”
+
+26
+00:01:20,313 --> 00:01:25,452
+Premi per confermare
+
+27
+00:01:25,452 --> 00:01:30,290
+Seleziona l'area hotspot e scegli “Finestra di Visualizzazione Preimpostata”
+
+28
+00:01:30,290 --> 00:01:34,661
+Seleziona il nome della finestra di visualizzazione che hai appena aggiunto
+
+29
+00:01:34,661 --> 00:01:37,630
+Premi Anteprima
+
+30
+00:01:37,630 --> 00:01:43,536
+L'immagine a 360 viene mostrata nella finestra di visualizzazione che hai creato
+
+31
+00:01:43,536 --> 00:01:45,472
+Infine proviamo l'ultimo metodo di visualizzazione: “Incorpora all'Interno dell'Area del Blocco”
+
+32
+00:01:45,472 --> 00:01:49,776
+Seleziona “Incorpora all'Interno dell'Area del Blocco” e definisci la dimensione della finestra e il punto di ancoraggio
+
+33
+00:01:49,776 --> 00:01:54,314
+Questa operazione è simile a quella menzionata in precedenza “Sovrapposizione Schermo”
+
+34
+00:01:54,314 --> 00:01:56,883
+Premi Anteprima
+
+35
+00:01:56,883 --> 00:02:01,621
+La differenza con 'Sovrapposizione Schermo' è che la finestra è mostrata solo all'interno della sua area di blocco
+
+36
+00:02:01,621 --> 00:02:08,294
+Ora ridimensioniamo e cambiamo il “punto di ancoraggio”
+
+37
+00:02:08,294 --> 00:02:10,430
+Premi Anteprima
+
+38
+00:02:10,430 --> 00:02:14,501
+Puoi vedere che la finestra ha cambiato posizione e dimensione, ma rimane ancora entro i confini del suo blocco

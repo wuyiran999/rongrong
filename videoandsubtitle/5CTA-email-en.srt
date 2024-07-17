@@ -1,0 +1,23 @@
+﻿1
+00:00:00,000 --> 00:00:01,167
+Add Email to Hotspot
+
+2
+00:00:01,167 --> 00:00:03,336
+After create CTA area, click “Email” on left menu
+
+3
+00:00:03,336 --> 00:00:05,972
+Enter a title name
+
+4
+00:00:05,972 --> 00:00:10,477
+Enter the Email address
+
+5
+00:00:10,477 --> 00:00:13,213
+Confirm and Preview
+
+6
+00:00:13,213 --> 00:00:19,252
+Click the CTA area and you can access email address

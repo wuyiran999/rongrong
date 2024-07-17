@@ -1,0 +1,151 @@
+﻿1
+00:00:00,000 --> 00:00:01,234
+Add a 360 Image to Hotspot
+
+2
+00:00:01,234 --> 00:00:03,169
+First, create a hotspot area and click “360-Degree Image Viewer” on the left
+
+3
+00:00:03,169 --> 00:00:06,106
+Return to the main menu and click “Media Library”
+
+4
+00:00:06,106 --> 00:00:16,483
+Select “360 Photos” and add a 360 image from your computer
+
+5
+00:00:16,483 --> 00:00:18,284
+Now return to the ETC configuration
+
+6
+00:00:18,284 --> 00:00:20,120
+Add the 360 image you just uploaded to your library
+
+7
+00:00:20,120 --> 00:00:24,024
+You can also directly upload the 360 image from your computer
+
+8
+00:00:24,024 --> 00:00:26,493
+Okay, now let's try the first display method: “Screen Overlay”
+
+9
+00:00:26,493 --> 00:00:29,763
+Set the window size and let's start by placing the “anchor point” at the top left
+
+10
+00:00:29,763 --> 00:00:31,898
+Now, preview
+
+11
+00:00:31,898 --> 00:00:33,299
+Click on the hotspot area
+
+12
+00:00:33,299 --> 00:00:36,870
+You can see the 360 image is at the top left, occupying half of the screen
+
+13
+00:00:36,870 --> 00:00:43,143
+Let's go back and change the “anchor point” to the center
+
+14
+00:00:43,143 --> 00:00:45,345
+Press Preview again
+
+15
+00:00:45,345 --> 00:00:51,651
+Now the 360 image is centered
+
+16
+00:00:51,651 --> 00:00:54,754
+Next, let's try the second display method: “Embed in Block Center”
+
+17
+00:00:54,754 --> 00:00:59,726
+We resize the hotspot area, and click “Embed in Block Center” on the right
+
+18
+00:00:59,726 --> 00:01:01,494
+Press Preview
+
+19
+00:01:01,494 --> 00:01:03,229
+Click on the hotspot area
+
+20
+00:01:03,229 --> 00:01:06,366
+You can see the 360 image is strictly limited to the hotspot area
+
+21
+00:01:06,366 --> 00:01:08,034
+This is the “Embed in Block Center” method
+
+22
+00:01:08,034 --> 00:01:09,402
+Now, let's try the third method: “Preset Display Window”
+
+23
+00:01:09,402 --> 00:01:15,141
+First, create a new hotspot area and place it on the left
+
+24
+00:01:15,141 --> 00:01:17,644
+Set it as a “Display Window”
+
+25
+00:01:17,644 --> 00:01:20,313
+Enter a “Display Window” name
+
+26
+00:01:20,313 --> 00:01:25,452
+Press to confirm
+
+27
+00:01:25,452 --> 00:01:30,290
+Select the hotspot area and choose “Preset Display Window”
+
+28
+00:01:30,290 --> 00:01:34,661
+Select the display window name you just added
+
+29
+00:01:34,661 --> 00:01:37,630
+Press Preview
+
+30
+00:01:37,630 --> 00:01:43,536
+The 360 image is shown in the display window you created
+
+31
+00:01:43,536 --> 00:01:45,472
+Finally, let's try the last display method: “Embed Within Block Area”
+
+32
+00:01:45,472 --> 00:01:49,776
+Select “Embed Within Block Area” and define the window size and anchor point
+
+33
+00:01:49,776 --> 00:01:54,314
+This operation is similar to the previously mentioned “Screen Overlay”
+
+34
+00:01:54,314 --> 00:01:56,883
+Press Preview
+
+35
+00:01:56,883 --> 00:02:01,621
+The difference with 'Screen Overlay' is that the window is only shown within its own block area
+
+36
+00:02:01,621 --> 00:02:08,294
+Now let's resize and change the “anchor point”
+
+37
+00:02:08,294 --> 00:02:10,430
+Press Preview
+
+38
+00:02:10,430 --> 00:02:14,501
+You can see the window has changed its position and size, but it still remains within the boundaries of its block
