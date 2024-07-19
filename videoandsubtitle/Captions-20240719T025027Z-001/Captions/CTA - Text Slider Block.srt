@@ -1,0 +1,23 @@
+﻿1
+00:00:00,967 --> 00:00:06,172
+Per prima cosa, seleziona il "Blocco Slider di Testo"
+
+2
+00:00:06,172 --> 00:00:13,246
+Regola l'area di visualizzazione del "Blocco Slider di Testo"
+
+3
+00:00:13,246 --> 00:00:17,150
+Regola le impostazioni del tuo "Slider di Testo"
+
+4
+00:00:17,150 --> 00:00:23,023
+Ci sono 2 tipi di animazione disponibili, puoi selezionare tra carosello e digitazione
+
+5
+00:00:23,023 --> 00:00:36,903
+Inserisci il tuo testo, puoi regolare il tipo di carattere e le impostazioni del font
+
+6
+00:00:36,903 --> 00:00:43,343
+Puoi anche aggiungere ombra e contorno al tuo slider

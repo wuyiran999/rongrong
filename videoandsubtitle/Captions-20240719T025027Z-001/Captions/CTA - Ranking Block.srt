@@ -1,0 +1,35 @@
+﻿1
+00:00:00,967 --> 00:00:06,172
+Prima di tutto seleziona il "Blocco Ranking "
+
+2
+00:00:06,172 --> 00:00:08,875
+Regola la configurazione del "Blocco Ranking"
+
+3
+00:00:08,875 --> 00:00:15,248
+Seleziona il numero di opzioni di ranking
+
+4
+00:00:15,248 --> 00:00:18,118
+Vai al CTA Canvas
+
+5
+00:00:18,118 --> 00:00:21,554
+Inserisci l'area hotspot e seleziona il suo attributo
+
+6
+00:00:21,554 --> 00:00:25,291
+Regola la configurazione dell'area hotspot nel pannello destro
+
+7
+00:00:25,291 --> 00:00:35,001
+Imposta tutte le aree hotspot necessarie
+
+8
+00:00:35,001 --> 00:00:43,510
+Dopo l'invio, puoi mostrare il risultato del ranking
+
+9
+00:00:43,510 --> 00:00:47,547
+Puoi anche visualizzarlo in un'interfaccia compressa

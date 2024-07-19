@@ -1,0 +1,27 @@
+﻿1
+00:00:00,967 --> 00:00:03,570
+Per prima cosa seleziona “Canvas CTA”
+
+2
+00:00:03,570 --> 00:00:08,375
+Seleziona “Abilita Blocco Accordion”
+
+3
+00:00:08,375 --> 00:00:15,582
+Seleziona i livelli che vuoi mostrare e nascondere sotto il trigger
+
+4
+00:00:16,916 --> 00:00:22,222
+Puoi visualizzare il risultato cliccando sul blocco trigger
+
+5
+00:00:22,222 --> 00:00:28,995
+Puoi aggiungere fino a 3 livelli nel blocco accordion
+
+6
+00:00:28,995 --> 00:00:37,103
+Semplicemente ripeti i passaggi nel blocco del livello 1
+
+7
+00:00:37,103 --> 00:00:43,543
+Ora il tuo livello 1 può essere attivato come “Accordion Toggle”

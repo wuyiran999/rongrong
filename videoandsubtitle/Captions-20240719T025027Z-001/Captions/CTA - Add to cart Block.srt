@@ -1,0 +1,35 @@
+﻿1
+00:00:00,967 --> 00:00:04,971
+Per prima cosa crea una nuova cartella nel tuo pannello di “Gestione Progetto”
+
+2
+00:00:04,971 --> 00:00:15,048
+Poi sposta il tuo progetto nella nuova cartella
+
+3
+00:00:15,048 --> 00:00:29,262
+Nella nuova cartella puoi impostare una nuova “Categoria Prodotto”
+
+4
+00:00:29,262 --> 00:00:35,602
+Vai al “Canvas CTA” e abilita il “Blocco Aggiungi al Carrello”
+
+5
+00:00:35,602 --> 00:00:42,075
+Crea un'“Area Hotspot” e seleziona la funzione “Aggiungi un Prodotto”
+
+6
+00:00:42,075 --> 00:00:49,182
+Compila i dettagli del tuo prodotto nel pannello a destra
+
+7
+00:00:49,182 --> 00:00:55,622
+Successivamente crea un'area hotspot “Aggiungi al Carrello”
+
+8
+00:00:55,622 --> 00:01:05,365
+Puoi selezionare il prodotto collegato in base alle impostazioni precedenti
+
+9
+00:01:05,365 --> 00:01:16,776
+Infine, aggiungi l'area hotspot “Visualizza Carrello”

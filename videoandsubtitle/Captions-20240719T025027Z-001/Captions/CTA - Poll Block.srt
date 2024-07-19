@@ -1,0 +1,31 @@
+﻿1
+00:00:00,967 --> 00:00:06,172
+Per prima cosa, seleziona il “Blocco Sondaggio”
+
+2
+00:00:06,172 --> 00:00:11,311
+Regola la configurazione del “Blocco Sondaggio”
+
+3
+00:00:11,311 --> 00:00:14,514
+Vai al “Canvas CTA”
+
+4
+00:00:14,514 --> 00:00:18,752
+Inserisci l'area hotspot e seleziona il suo attributo
+
+5
+00:00:18,752 --> 00:00:24,524
+Regola la configurazione dell'area hotspot sul pannello di destra
+
+6
+00:00:24,524 --> 00:00:34,901
+Configura tutte le aree hotspot necessarie
+
+7
+00:00:34,901 --> 00:00:43,743
+Dopo l'invio, puoi mostrare il risultato del sondaggio
+
+8
+00:00:43,743 --> 00:00:54,754
+Puoi anche sondare sotto un'interfaccia compressa

@@ -1,0 +1,31 @@
+﻿1
+00:00:00,967 --> 00:00:04,104
+Per prima cosa seleziona il “Canvas CTA”
+
+2
+00:00:04,104 --> 00:00:06,539
+Crea un'“Area Hotspot” e impostala come “Collega al Blocco”
+
+3
+00:00:06,539 --> 00:00:11,211
+Puoi regolare le “Impostazioni di Visualizzazione” e il “Metodo di Attivazione”
+
+4
+00:00:11,211 --> 00:00:15,348
+Puoi decidere come visualizzare questa funzione
+
+5
+00:00:15,348 --> 00:00:21,521
+Puoi anche aggiungere ombre e contorni alla tua visualizzazione
+
+6
+00:00:21,521 --> 00:00:25,959
+Seleziona il blocco di collegamento da uno dei tuoi progetti
+
+7
+00:00:25,959 --> 00:00:32,732
+Quindi seleziona il blocco specifico con cui desideri collegarti
+
+8
+00:00:34,267 --> 00:00:39,272
+In anteprima, il tuo blocco collegato verrà visualizzato nella finestra di visualizzazione

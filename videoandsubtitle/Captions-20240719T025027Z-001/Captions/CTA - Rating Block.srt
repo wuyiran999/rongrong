@@ -1,0 +1,35 @@
+﻿1
+00:00:00,967 --> 00:00:06,172
+Innanzitutto, seleziona il "Blocco Rating"
+
+2
+00:00:06,172 --> 00:00:08,875
+Regola la configurazione del "Blocco Rating"
+
+3
+00:00:08,875 --> 00:00:13,580
+Seleziona la scala delle opzioni di rating
+
+4
+00:00:13,580 --> 00:00:18,118
+Vai al Canvas CTA
+
+5
+00:00:18,118 --> 00:00:25,125
+Inserisci l'area hotspot e seleziona il suo attributo
+
+6
+00:00:25,125 --> 00:00:33,199
+Regola la configurazione dell'area hotspot nel pannello destro
+
+7
+00:00:33,199 --> 00:00:42,909
+Configura tutte le aree hotspot necessarie
+
+8
+00:00:42,909 --> 00:00:52,952
+Dopo l'invio, puoi mostrare il risultato della valutazione
+
+9
+00:00:52,952 --> 00:00:57,557
+Puoi anche visualizzarlo in un'interfaccia compressa
