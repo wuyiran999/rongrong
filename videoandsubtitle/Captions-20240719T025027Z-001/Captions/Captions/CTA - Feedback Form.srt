@@ -1,0 +1,31 @@
+﻿1
+00:00:00,967 --> 00:00:08,241
+First, select the “Feedback Form Block”
+
+2
+00:00:08,241 --> 00:00:11,444
+Go to “CTA canvas”
+
+3
+00:00:11,444 --> 00:00:15,682
+Insert hotspot area and select it’s attribute
+
+4
+00:00:15,682 --> 00:00:21,388
+Adjust the configuration of the hotspot area on the right panel
+
+5
+00:00:21,454 --> 00:00:31,831
+Set up all required hotspot area
+
+6
+00:00:31,831 --> 00:00:40,140
+You can display the feedback form in a compress format
+
+7
+00:00:40,140 --> 00:00:46,546
+You can share your feedback form through QR code
+
+8
+00:00:46,546 --> 00:00:52,485
+Lastly, submit your form to record your details

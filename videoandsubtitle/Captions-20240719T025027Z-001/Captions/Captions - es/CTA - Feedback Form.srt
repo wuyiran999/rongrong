@@ -1,0 +1,31 @@
+﻿1
+00:00:00,967 --> 00:00:08,241
+Primero, selecciona el “Bloque de Formulario de Retroalimentación”
+
+2
+00:00:08,241 --> 00:00:11,444
+Ve a “Lienzo CTA”
+
+3
+00:00:11,444 --> 00:00:15,682
+Inserta un área de punto de interés y selecciona sus atributos
+
+4
+00:00:15,682 --> 00:00:21,388
+Ajusta la configuración del área de punto de interés en el panel derecho
+
+5
+00:00:21,454 --> 00:00:31,831
+Configura todas las áreas de punto de interés necesarias
+
+6
+00:00:31,831 --> 00:00:40,140
+Puedes mostrar el formulario de retroalimentación en un formato comprimido
+
+7
+00:00:40,140 --> 00:00:46,546
+Puedes compartir tu formulario de retroalimentación a través de un código QR
+
+8
+00:00:46,546 --> 00:00:52,485
+Por último, envía tu formulario para registrar tus detalles

@@ -1,0 +1,27 @@
+﻿1
+00:00:00,967 --> 00:00:03,570
+First, select the “CTA Canvas”
+
+2
+00:00:03,570 --> 00:00:08,375
+Select “Enable Accordion Block”
+
+3
+00:00:08,375 --> 00:00:15,582
+Select the layers that you would like to show & hide under the trigger
+
+4
+00:00:16,916 --> 00:00:22,222
+You can preview the outcome by clicking the trigger block
+
+5
+00:00:22,222 --> 00:00:28,995
+You can add on the accordion layer up to 3 layers
+
+6
+00:00:28,995 --> 00:00:37,103
+Simply repeat the steps in your layer 1 block
+
+7
+00:00:37,103 --> 00:00:43,543
+Now your layer 1 can be trigger as “Accordion Toggle”

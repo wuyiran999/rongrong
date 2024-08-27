@@ -1,0 +1,27 @@
+﻿1
+00:00:00,967 --> 00:00:06,172
+Per prima cosa, seleziona il “Blocco Slider Animato”
+
+2
+00:00:06,172 --> 00:00:09,609
+Regola l'area di visualizzazione del “Blocco Slider Animato”
+
+3
+00:00:09,609 --> 00:00:14,581
+Puoi cambiare il “Gap Immagine”, la “Velocità di Scorrimento” e la “Direzione di Scorrimento”
+
+4
+00:00:14,581 --> 00:00:20,320
+Puoi anche aggiungere ombre e contorni al tuo slider
+
+5
+00:00:20,320 --> 00:00:27,293
+Infine seleziona le immagini da visualizzare come carosello dalla tua “Libreria Multimediale”
+
+6
+00:00:27,293 --> 00:00:34,667
+Puoi aggiungere URL unici a ogni immagine
+
+7
+00:00:34,667 --> 00:00:41,107
+In anteprima il tuo carosello si ripeterà all'infinito

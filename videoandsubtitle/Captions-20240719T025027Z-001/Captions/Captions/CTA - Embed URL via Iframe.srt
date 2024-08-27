@@ -1,0 +1,31 @@
+﻿1
+00:00:00,967 --> 00:00:04,104
+First, select the “CTA Canvas”
+
+2
+00:00:04,104 --> 00:00:08,875
+Create “Hotspot Area” and set it as “Embed URL via Iframe”
+
+3
+00:00:08,875 --> 00:00:13,546
+You can adjust the “Display Setting” & “Activation Method”
+
+4
+00:00:13,546 --> 00:00:17,851
+You can decide how this feature to be displayed
+
+5
+00:00:17,851 --> 00:00:22,422
+You can add shadow and stroke of your display as well
+
+6
+00:00:22,422 --> 00:00:25,792
+Insert an unique url to be displayed in the window
+
+7
+00:00:25,792 --> 00:00:32,999
+Or you can link your “VinMobi” or “VinDesk” project 
+
+8
+00:00:32,999 --> 00:00:40,573
+The connected project will be displayed via Iframe

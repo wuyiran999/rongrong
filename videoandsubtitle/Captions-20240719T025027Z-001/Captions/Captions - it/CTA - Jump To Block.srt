@@ -1,0 +1,19 @@
+﻿1
+00:00:00,967 --> 00:00:04,104
+Per prima cosa seleziona il “Canvas CTA”
+
+2
+00:00:04,104 --> 00:00:06,539
+Crea un'“Area Hotspot” e impostala come “Salta al Blocco”
+
+3
+00:00:06,539 --> 00:00:11,211
+Puoi regolare le “Impostazioni di Visualizzazione” e il “Metodo di Attivazione”
+
+4
+00:00:11,211 --> 00:00:17,283
+Successivamente, seleziona il blocco all'interno di questo progetto come destinazione
+
+5
+00:00:19,919 --> 00:00:28,862
+In anteprima, puoi attivare il pulsante e saltare al blocco selezionato

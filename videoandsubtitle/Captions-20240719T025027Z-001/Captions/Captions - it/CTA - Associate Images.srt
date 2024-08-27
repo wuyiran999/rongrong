@@ -1,0 +1,31 @@
+﻿1
+00:00:00,967 --> 00:00:04,104
+Per prima cosa seleziona il “Canvas CTA”
+
+2
+00:00:04,104 --> 00:00:08,875
+Crea l'“Area Hotspot” e impostala come “Immagini Associate”
+
+3
+00:00:08,875 --> 00:00:13,246
+Puoi regolare le “Impostazioni di Visualizzazione” e il “Metodo di Attivazione”
+
+4
+00:00:13,246 --> 00:00:18,418
+Puoi caricare le immagini offline o aggiungerle dalla tua “Libreria Multimediale”
+
+5
+00:00:18,418 --> 00:00:24,791
+Puoi decidere come visualizzare questa funzione
+
+6
+00:00:24,791 --> 00:00:30,230
+Puoi aggiungere ombra e contorno alla tua visualizzazione
+
+7
+00:00:30,230 --> 00:00:37,270
+Ogni immagine può essere aggiunta con un URL unico
+
+8
+00:00:37,270 --> 00:00:46,046
+Le “Immagini Associate” possono essere attivate tramite la rotella del mouse

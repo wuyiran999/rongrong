@@ -1,0 +1,151 @@
+﻿1
+00:00:00,000 --> 00:00:01,234
+Agregar una imagen 360 al Hotspot
+
+2
+00:00:01,234 --> 00:00:03,169
+Primero, crea un área de hotspot y haz clic en “360-Degree Image Viewer” a la izquierda
+
+3
+00:00:03,169 --> 00:00:06,106
+Regresa al menú principal y haz clic en “Media Library”
+
+4
+00:00:06,106 --> 00:00:16,483
+Selecciona “360 Photos” y agrega una imagen 360 desde tu computadora
+
+5
+00:00:16,483 --> 00:00:18,284
+Ahora regresa a la configuración de ETC
+
+6
+00:00:18,284 --> 00:00:20,120
+Añade la imagen 360 que acabas de subir a tu biblioteca
+
+7
+00:00:20,120 --> 00:00:24,024
+También puedes subir directamente la imagen 360 desde tu computadora
+
+8
+00:00:24,024 --> 00:00:26,493
+Bien, ahora probemos el primer método de visualización: “Screen Overlay”
+
+9
+00:00:26,493 --> 00:00:29,763
+Configura el tamaño de la ventana y empecemos colocando el “anchor point” en la esquina superior izquierda
+
+10
+00:00:29,763 --> 00:00:31,898
+Ahora, previsualicemos
+
+11
+00:00:31,898 --> 00:00:33,299
+Haz clic en el área de hotspot
+
+12
+00:00:33,299 --> 00:00:36,870
+Puedes ver que la imagen 360 está en la esquina superior izquierda, ocupando la mitad de la pantalla
+
+13
+00:00:36,870 --> 00:00:43,143
+Volvamos y cambiemos el “anchor point” al centro
+
+14
+00:00:43,143 --> 00:00:45,345
+Presiona Previsualizar de nuevo
+
+15
+00:00:45,345 --> 00:00:51,651
+Ahora la imagen 360 está centrada
+
+16
+00:00:51,651 --> 00:00:54,754
+A continuación, probemos el segundo método de visualización: “Embed in Block Center”
+
+17
+00:00:54,754 --> 00:00:59,726
+Redimensionamos el área de hotspot y hacemos clic en “Embed in Block Center” a la derecha
+
+18
+00:00:59,726 --> 00:01:01,494
+Presiona Previsualizar
+
+19
+00:01:01,494 --> 00:01:03,229
+Haz clic en el área de hotspot
+
+20
+00:01:03,229 --> 00:01:06,366
+Puedes ver que la imagen 360 está estrictamente limitada al área del hotspot
+
+21
+00:01:06,366 --> 00:01:08,034
+Este es el método “Embed in Block Center”
+
+22
+00:01:08,034 --> 00:01:09,402
+Ahora, probemos el tercer método: “Preset Display Window”
+
+23
+00:01:09,402 --> 00:01:15,141
+Primero, crea una nueva área de hotspot y colócala a la izquierda
+
+24
+00:01:15,141 --> 00:01:17,644
+Configúrala como una “Display Window”
+
+25
+00:01:17,644 --> 00:01:20,313
+Ingresa un nombre de “Display Window”
+
+26
+00:01:20,313 --> 00:01:25,452
+Presiona para confirmar
+
+27
+00:01:25,452 --> 00:01:30,290
+Selecciona el área de hotspot y elige “Preset Display Window”
+
+28
+00:01:30,290 --> 00:01:34,661
+Selecciona el nombre de la ventana de visualización que acabas de agregar
+
+29
+00:01:34,661 --> 00:01:37,630
+Presiona Previsualizar
+
+30
+00:01:37,630 --> 00:01:43,536
+La imagen 360 se muestra en la ventana de visualización que creaste
+
+31
+00:01:43,536 --> 00:01:45,472
+Finalmente, probemos el último método de visualización: “Embed Within Block Area”
+
+32
+00:01:45,472 --> 00:01:49,776
+Selecciona “Embed Within Block Area” y define el tamaño de la ventana y el punto de anclaje
+
+33
+00:01:49,776 --> 00:01:54,314
+Esta operación es similar a la mencionada anteriormente “Screen Overlay”
+
+34
+00:01:54,314 --> 00:01:56,883
+Presiona Previsualizar
+
+35
+00:01:56,883 --> 00:02:01,621
+La diferencia con 'Screen Overlay' es que la ventana solo se muestra dentro de su propia área de bloque
+
+36
+00:02:01,621 --> 00:02:08,294
+Ahora cambiemos el tamaño y el “anchor point”
+
+37
+00:02:08,294 --> 00:02:10,430
+Presiona Previsualizar
+
+38
+00:02:10,430 --> 00:02:14,501
+Puedes ver que la ventana ha cambiado su posición y tamaño, pero aún permanece dentro de los límites de su bloque

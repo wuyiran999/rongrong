@@ -1,0 +1,35 @@
+﻿1
+00:00:00,967 --> 00:00:04,971
+First, create a new folder in your “Project Management” panel
+
+2
+00:00:04,971 --> 00:00:15,048
+Next, move your project into the new folder
+
+3
+00:00:15,048 --> 00:00:29,262
+In the new folder, you can set up new “Item Category”
+
+4
+00:00:29,262 --> 00:00:35,602
+Go to “CTA Canvas” and enable “Add To Cart Block”
+
+5
+00:00:35,602 --> 00:00:42,075
+Create “Hotspot Area” and select “Add An Item” function
+
+6
+00:00:42,075 --> 00:00:49,182
+Fill in your item details on the right panel
+
+7
+00:00:49,182 --> 00:00:55,622
+Next, create “Add To Cart” hotspot area
+
+8
+00:00:55,622 --> 00:01:05,365
+You can sellect the link item based on your set up earlier
+
+9
+00:01:05,365 --> 00:01:16,776
+Lastly, add in the “View Cart” hotspot area

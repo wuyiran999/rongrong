@@ -1,0 +1,31 @@
+﻿1
+00:00:00,967 --> 00:00:05,071
+Per prima cosa seleziona il “Blocco Modulo di Commento”
+
+2
+00:00:05,071 --> 00:00:09,709
+Regola la configurazione del “Blocco Commenti”
+
+3
+00:00:09,709 --> 00:00:12,012
+Vai al Canvas CTA
+
+4
+00:00:12,012 --> 00:00:18,018
+Inserisci l'area hotspot e seleziona il suo attributo
+
+5
+00:00:18,018 --> 00:00:25,025
+Regola la configurazione dell'area hotspot nel pannello di destra
+
+6
+00:00:25,025 --> 00:00:40,940
+Configura tutte le aree hotspot necessarie
+
+7
+00:00:40,940 --> 00:00:48,381
+Dopo l'invio, puoi visualizzare tutti i commenti contemporaneamente
+
+8
+00:00:48,381 --> 00:00:52,552
+Puoi anche visualizzarli in un'interfaccia compressa

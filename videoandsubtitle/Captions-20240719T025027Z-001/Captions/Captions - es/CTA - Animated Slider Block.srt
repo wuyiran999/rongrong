@@ -1,0 +1,27 @@
+﻿1
+00:00:00,967 --> 00:00:06,172
+Primero, selecciona el “Bloque de Deslizador Animado”
+
+2
+00:00:06,172 --> 00:00:09,609
+Ajusta el área de visualización del “Bloque de Deslizador Animado”
+
+3
+00:00:09,609 --> 00:00:14,581
+Puedes cambiar el “Espacio entre Imágenes”, la “Velocidad de Deslizamiento” y la “Dirección de Deslizamiento”
+
+4
+00:00:14,581 --> 00:00:20,320
+También puedes agregar sombra y borde a tu deslizador
+
+5
+00:00:20,320 --> 00:00:27,293
+Finalmente, selecciona las imágenes que se mostrarán como carrusel desde tu “Biblioteca de Medios”
+
+6
+00:00:27,293 --> 00:00:34,667
+Puedes añadir una URL única a cada imagen
+
+7
+00:00:34,667 --> 00:00:41,107
+En la vista previa, tu carrusel se reproducirá infinitamente

@@ -1,0 +1,37 @@
+﻿1
+00:00:00,967 --> 00:00:04,104
+Primero, selecciona el “Lienzo CTA”
+
+2
+00:00:04,104 --> 00:00:07,073
+Crea un “Área de Punto de Interés” y configúralo como “Animación”
+
+3
+00:00:07,073 --> 00:00:11,644
+Puedes ajustar la “Posición del Ancla” de tu animación
+
+4
+00:00:11,644 --> 00:00:15,682
+Luego, activa la posición de tu punto de interés donde se mostrará la animación
+
+5
+00:00:15,682 --> 00:00:20,587
+Selecciona tus imágenes animadas desde tus “Activos Favoritos”
+
+6
+00:00:20,587 --> 00:00:23,656
+Puedes ajustar la configuración de cada imagen animada
+
+7
+00:00:23,656 --> 00:00:32,098
+Como el tiempo de visualización, y agregar efectos de sombra o borde
+
+8
+00:00:34,134 --> 00:00:40,540
+En la vista previa, la animación se reproducirá automáticamente
+
+
+
+
+
+

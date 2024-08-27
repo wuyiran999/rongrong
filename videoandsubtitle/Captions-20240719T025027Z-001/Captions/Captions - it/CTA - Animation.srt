@@ -1,0 +1,31 @@
+﻿1
+00:00:00,967 --> 00:00:04,104
+Per prima cosa seleziona il “Canvas CTA”
+
+2
+00:00:04,104 --> 00:00:07,073
+Crea l'“Area Hotspot” e impostala come “Animazione”
+
+3
+00:00:07,073 --> 00:00:11,644
+Puoi regolare la “Posizione di Ancoraggio” della tua animazione
+
+4
+00:00:11,644 --> 00:00:15,682
+Poi attiva la posizione del tuo hotspot dove verrà visualizzata l'animazione
+
+5
+00:00:15,682 --> 00:00:20,587
+Seleziona le tue immagini animate dai tuoi “Asset Preferiti”
+
+6
+00:00:20,587 --> 00:00:23,656
+Puoi regolare le impostazioni di ogni immagine animata
+
+7
+00:00:23,656 --> 00:00:32,098
+Come il tempo di visualizzazione, effetti di ombra o contorno
+
+8
+00:00:34,134 --> 00:00:40,540
+In anteprima, l'animazione si riprodurrà automaticamente

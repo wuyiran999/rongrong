@@ -1,0 +1,41 @@
+﻿1
+00:00:00,967 --> 00:00:06,172
+Primero, selecciona el “Bloque de Ranking”
+
+2
+00:00:06,172 --> 00:00:08,875
+Ajusta la configuración del “Bloque de Ranking”
+
+3
+00:00:08,875 --> 00:00:15,248
+Selecciona el número de opciones de ranking
+
+4
+00:00:15,248 --> 00:00:18,118
+Ve al “Lienzo CTA”
+
+5
+00:00:18,118 --> 00:00:21,554
+Inserta el área de punto de interés y selecciona su atributo
+
+6
+00:00:21,554 --> 00:00:25,291
+Ajusta la configuración del área de punto de interés en el panel derecho
+
+7
+00:00:25,291 --> 00:00:35,001
+Configura todas las áreas de punto de interés requeridas
+
+8
+00:00:35,001 --> 00:00:43,510
+Después de la presentación, puedes mostrar el resultado del ranking
+
+9
+00:00:43,510 --> 00:00:47,547
+También puedes mostrarlo en una interfaz comprimida
+
+
+
+
+
+

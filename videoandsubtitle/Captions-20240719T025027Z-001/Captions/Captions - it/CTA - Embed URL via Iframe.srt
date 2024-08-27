@@ -1,0 +1,31 @@
+﻿1
+00:00:00,967 --> 00:00:04,104
+Per prima cosa seleziona il “Canvas CTA”
+
+2
+00:00:04,104 --> 00:00:08,875
+Crea un'“Area Hotspot” e impostala come “Incorpora URL tramite Iframe”
+
+3
+00:00:08,875 --> 00:00:13,546
+Puoi regolare le “Impostazioni di Visualizzazione” e il “Metodo di Attivazione”
+
+4
+00:00:13,546 --> 00:00:17,851
+Puoi decidere come visualizzare questa funzione
+
+5
+00:00:17,851 --> 00:00:22,422
+Puoi aggiungere ombra e contorno alla tua visualizzazione
+
+6
+00:00:22,422 --> 00:00:25,792
+Inserisci un URL univoco da visualizzare nella finestra
+
+7
+00:00:25,792 --> 00:00:32,999
+Oppure puoi collegare il tuo progetto “VinMobi” o “VinDesk”
+
+8
+00:00:32,999 --> 00:00:40,573
+Il progetto collegato sarà visualizzato tramite Iframe

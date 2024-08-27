@@ -1,0 +1,39 @@
+﻿1
+00:00:00,000 --> 00:00:00,767
+Agregar Audio al Hotspot
+
+2
+00:00:00,767 --> 00:00:03,103
+Primero, ve al menú principal y haz clic en “Media Library”
+
+3
+00:00:03,103 --> 00:00:05,372
+Haz clic en “Audio files”
+
+4
+00:00:05,372 --> 00:00:10,377
+Agrega un archivo de audio desde la computadora a la biblioteca
+
+5
+00:00:10,377 --> 00:00:13,046
+Ahora regresa al menú de CTA y crea un área de CTA
+
+6
+00:00:13,046 --> 00:00:14,948
+Haz clic en “Play Audio” en el menú de la izquierda
+
+7
+00:00:14,948 --> 00:00:20,687
+Selecciona “Add from Media Library” en el menú de la derecha
+
+8
+00:00:20,687 --> 00:00:27,394
+Agrega el archivo de audio que acabas de añadir
+
+9
+00:00:27,394 --> 00:00:31,631
+Bien, vamos a previsualizar
+
+10
+00:00:31,631 --> 00:00:39,806
+Haz clic en el área de hotspot, el archivo de audio se reproducirá

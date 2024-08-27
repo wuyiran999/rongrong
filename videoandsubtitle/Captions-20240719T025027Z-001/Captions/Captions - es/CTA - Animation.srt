@@ -1,0 +1,31 @@
+﻿1
+00:00:00,967 --> 00:00:04,104
+First, select the “CTA Canvas”
+
+2
+00:00:04,104 --> 00:00:07,073
+Create “Hotspot Area” and set it as “Animation”
+
+3
+00:00:07,073 --> 00:00:11,644
+You can adjust the “Anchor Position” of your animation
+
+4
+00:00:11,644 --> 00:00:15,682
+Then, activate your hotspot position of where the animation will be displayed
+
+5
+00:00:15,682 --> 00:00:20,587
+Select your animated images from your “Favorite Assets”
+
+6
+00:00:20,587 --> 00:00:23,656
+You can adjust the setting of each animated image
+
+7
+00:00:23,656 --> 00:00:32,098
+Such as the display time, and adding shadow or stroke effects
+
+8
+00:00:34,134 --> 00:00:40,540
+In preview, the animation will play automatically

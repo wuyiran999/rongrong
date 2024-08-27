@@ -1,0 +1,31 @@
+﻿1
+00:00:00,967 --> 00:00:04,104
+Primero, selecciona el “CTA Canvas”
+
+2
+00:00:04,104 --> 00:00:07,073
+Crea “Hotspot Area” y configúralo como “360-Degree Object Viewer”
+
+3
+00:00:07,073 --> 00:00:11,644
+Puedes ajustar la “Display Setting” y el “Activation Method”
+
+4
+00:00:11,644 --> 00:00:17,150
+Selecciona la carpeta en tu “Media Library” que incluya todas las imágenes del producto en 360 grados
+
+5
+00:00:17,150 --> 00:00:26,126
+Puedes decidir cómo se mostrará esta función
+
+6
+00:00:26,126 --> 00:00:33,199
+También puedes agregar sombra y trazo a tu pantalla
+
+7
+00:00:33,199 --> 00:00:40,407
+La carpeta seleccionada debe incluir todas las imágenes en 360 grados en secuencia
+
+8
+00:00:42,976 --> 00:00:51,551
+En la vista previa, puedes alternar tu ventana para girar el objeto en 360 grados

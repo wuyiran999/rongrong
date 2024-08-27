@@ -1,0 +1,37 @@
+﻿1
+00:00:00,967 --> 00:00:06,172
+Primero, selecciona el “Bloque de Encuesta”
+
+2
+00:00:06,172 --> 00:00:11,311
+Ajusta la configuración del “Bloque de Encuesta”
+
+3
+00:00:11,311 --> 00:00:14,514
+Ve al “Lienzo CTA”
+
+4
+00:00:14,514 --> 00:00:18,752
+Inserta el área de punto de interés y selecciona su atributo
+
+5
+00:00:18,752 --> 00:00:24,524
+Ajusta la configuración del área de punto de interés en el panel derecho
+
+6
+00:00:24,524 --> 00:00:34,901
+Configura todas las áreas de punto de interés requeridas
+
+7
+00:00:34,901 --> 00:00:43,743
+Después de la presentación, puedes mostrar el resultado de la encuesta
+
+8
+00:00:43,743 --> 00:00:54,754
+También puedes realizar encuestas en una interfaz comprimida
+
+
+
+
+
+

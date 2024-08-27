@@ -1,0 +1,31 @@
+﻿1
+00:00:00,967 --> 00:00:04,104
+First, select the “CTA Canvas”
+
+2
+00:00:04,104 --> 00:00:06,539
+Create “Hotspot Area” and set it as “Link To Block”
+
+3
+00:00:06,539 --> 00:00:11,211
+You can adjust the “Display Setting” & “Activation Method”
+
+4
+00:00:11,211 --> 00:00:15,348
+You can decide how this feature to be displayed
+
+5
+00:00:15,348 --> 00:00:21,521
+You can add shadow and stroke of your display as well
+
+6
+00:00:21,521 --> 00:00:25,959
+Select the linking block from one of your projects
+
+7
+00:00:25,959 --> 00:00:32,732
+Then select the specific block that you would like to link with
+
+8
+00:00:34,267 --> 00:00:39,272
+In preview, your linked block will show in display window

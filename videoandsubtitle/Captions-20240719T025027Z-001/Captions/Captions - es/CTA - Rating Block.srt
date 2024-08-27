@@ -1,0 +1,35 @@
+﻿1
+00:00:00,967 --> 00:00:06,172
+Primero, selecciona el “Bloque de Calificación”
+
+2
+00:00:06,172 --> 00:00:08,875
+Ajusta la configuración del “Bloque de Calificación”
+
+3
+00:00:08,875 --> 00:00:13,580
+Selecciona la escala de las opciones de calificación
+
+4
+00:00:13,580 --> 00:00:18,118
+Ve al “Lienzo CTA”
+
+5
+00:00:18,118 --> 00:00:25,125
+Inserta el área de punto de interés y selecciona su atributo
+
+6
+00:00:25,125 --> 00:00:33,199
+Ajusta la configuración del área de punto de interés en el panel derecho
+
+7
+00:00:33,199 --> 00:00:42,909
+Configura todas las áreas de punto de interés requeridas
+
+8
+00:00:42,909 --> 00:00:52,952
+Después de la presentación, puedes mostrar el resultado de la calificación
+
+9
+00:00:52,952 --> 00:00:57,557
+También puedes mostrarlo en una interfaz comprimida

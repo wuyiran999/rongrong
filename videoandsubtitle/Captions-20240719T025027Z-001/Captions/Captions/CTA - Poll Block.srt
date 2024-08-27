@@ -1,0 +1,31 @@
+﻿1
+00:00:00,967 --> 00:00:06,172
+First, select the “Poll Block”
+
+2
+00:00:06,172 --> 00:00:11,311
+Adjust the configuration of the “Poll Block”
+
+3
+00:00:11,311 --> 00:00:14,514
+Go to “CTA canvas”
+
+4
+00:00:14,514 --> 00:00:18,752
+Insert hotspot area and select it’s attribute
+
+5
+00:00:18,752 --> 00:00:24,524
+Adjust the configuration of the hotspot area on the right panel
+
+6
+00:00:24,524 --> 00:00:34,901
+Set up all required hotspot area
+
+7
+00:00:34,901 --> 00:00:43,743
+After submission, you can show the poll result 
+
+8
+00:00:43,743 --> 00:00:54,754
+You can also polling under a compress interface

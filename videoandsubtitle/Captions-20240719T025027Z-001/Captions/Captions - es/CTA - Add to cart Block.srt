@@ -1,0 +1,35 @@
+﻿1
+00:00:00,967 --> 00:00:04,971
+Primero, crea una nueva carpeta en el panel de “Project Management”
+
+2
+00:00:04,971 --> 00:00:15,048
+Luego, mueve tu proyecto a la nueva carpeta
+
+3
+00:00:15,048 --> 00:00:29,262
+En la nueva carpeta, puedes configurar nuevas “Categorías de Artículos”
+
+4
+00:00:29,262 --> 00:00:35,602
+Ve a “CTA Canvas” y habilita “Add To Cart Block”
+
+5
+00:00:35,602 --> 00:00:42,075
+Crea un “Hotspot Area” y selecciona la función “Add An Item”
+
+6
+00:00:42,075 --> 00:00:49,182
+Rellena los detalles del artículo en el panel derecho
+
+7
+00:00:49,182 --> 00:00:55,622
+Luego, crea un área de “Add To Cart”
+
+8
+00:00:55,622 --> 00:01:05,365
+Puedes seleccionar el artículo de enlace basado en tu configuración anterior
+
+9
+00:01:05,365 --> 00:01:16,776
+Por último, añade el área de “View Cart”

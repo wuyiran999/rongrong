@@ -1,0 +1,35 @@
+﻿1
+00:00:00,967 --> 00:00:06,172
+First, select the “Ranking Block”
+
+2
+00:00:06,172 --> 00:00:08,875
+Adjust the configuration of the “Ranking Block”
+
+3
+00:00:08,875 --> 00:00:15,248
+Select the number of ranking options
+
+4
+00:00:15,248 --> 00:00:18,118
+Go to “CTA canvas”
+
+5
+00:00:18,118 --> 00:00:21,554
+Insert hotspot area and select it’s attribute
+
+6
+00:00:21,554 --> 00:00:25,291
+Adjust the configuration of the hotspot area on the right panel
+
+7
+00:00:25,291 --> 00:00:35,001
+Set up all required hotspot area
+
+8
+00:00:35,001 --> 00:00:43,510
+After submission, you can show the ranking result
+
+9
+00:00:43,510 --> 00:00:47,547
+You can also display it under a compress interface

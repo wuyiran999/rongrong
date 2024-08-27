@@ -1,0 +1,23 @@
+﻿1
+00:00:00,967 --> 00:00:06,172
+First, select the “Text Slider Block”
+
+2
+00:00:06,172 --> 00:00:13,246
+Adjust the display area of the “Text Slider Block”
+
+3
+00:00:13,246 --> 00:00:17,150
+Adjust the setting of your “Text Slider”
+
+4
+00:00:17,150 --> 00:00:23,023
+There are 2 types of animation, carousel and typing can be selected
+
+5
+00:00:23,023 --> 00:00:36,903
+Key in your text input, you can adjust the typeface and font setting
+
+6
+00:00:36,903 --> 00:00:43,343
+You can add shadow and stroke of your slider as well

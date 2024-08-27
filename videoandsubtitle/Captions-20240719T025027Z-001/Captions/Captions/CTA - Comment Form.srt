@@ -1,0 +1,31 @@
+﻿1
+00:00:00,967 --> 00:00:05,071
+First, select the “Comment Form Block”
+
+2
+00:00:05,071 --> 00:00:09,709
+Adjust the configuration of the “Comment Block”
+
+3
+00:00:09,709 --> 00:00:12,012
+Go to CTA canvas
+
+4
+00:00:12,012 --> 00:00:18,018
+Insert hotspot area and select it’s attribute
+
+5
+00:00:18,018 --> 00:00:25,025
+Adjust the configuration of the hotspot area on the right panel
+
+6
+00:00:25,025 --> 00:00:40,940
+Set up all required hotspot area
+
+7
+00:00:40,940 --> 00:00:48,381
+After submission, you can view all comments at once
+
+8
+00:00:48,381 --> 00:00:52,552
+You can also display it under a compress interface

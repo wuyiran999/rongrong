@@ -1,0 +1,33 @@
+﻿1
+00:00:00,967 --> 00:00:03,570
+Primero, selecciona el “CTA Canvas”
+
+2
+00:00:03,570 --> 00:00:08,375
+Selecciona “Enable Accordion Block”
+
+3
+00:00:08,375 --> 00:00:15,582
+Selecciona las capas que te gustaría mostrar y ocultar bajo el disparador
+
+4
+00:00:16,916 --> 00:00:22,222
+Puedes previsualizar el resultado haciendo clic en el bloque disparador
+
+5
+00:00:22,222 --> 00:00:28,995
+Puedes añadir hasta 3 capas en el acordeón
+
+6
+00:00:28,995 --> 00:00:37,103
+Simplemente repite los pasos en tu bloque de capa 1
+
+7
+00:00:37,103 --> 00:00:43,543
+Ahora tu capa 1 puede ser activada como “Accordion Toggle”
+
+
+
+
+
+

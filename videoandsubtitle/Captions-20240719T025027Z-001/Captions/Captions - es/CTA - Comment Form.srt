@@ -1,0 +1,31 @@
+﻿1
+00:00:00,967 --> 00:00:05,071
+Primero, selecciona el “Bloque de Formulario de Comentarios”
+
+2
+00:00:05,071 --> 00:00:09,709
+Ajusta la configuración del “Bloque de Comentarios”
+
+3
+00:00:09,709 --> 00:00:12,012
+Ve al lienzo CTA
+
+4
+00:00:12,012 --> 00:00:18,018
+Inserta un área de punto de interés y selecciona su atributo
+
+5
+00:00:18,018 --> 00:00:25,025
+Ajusta la configuración del área de punto de interés en el panel derecho
+
+6
+00:00:25,025 --> 00:00:40,940
+Configura todas las áreas de punto de interés requeridas
+
+7
+00:00:40,940 --> 00:00:48,381
+Después del envío, puedes ver todos los comentarios a la vez
+
+8
+00:00:48,381 --> 00:00:52,552
+También puedes mostrarlos en una interfaz comprimida

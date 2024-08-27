@@ -1,0 +1,31 @@
+﻿1
+00:00:00,967 --> 00:00:08,241
+Per prima cosa seleziona il “Blocco Modulo di Feedback”
+
+2
+00:00:08,241 --> 00:00:11,444
+Vai al “Canvas CTA”
+
+3
+00:00:11,444 --> 00:00:15,682
+Inserisci l'area hotspot e seleziona il suo attributo
+
+4
+00:00:15,682 --> 00:00:21,388
+Regola la configurazione dell'area hotspot nel pannello di destra
+
+5
+00:00:21,454 --> 00:00:31,831
+Configura tutte le aree hotspot richieste
+
+6
+00:00:31,831 --> 00:00:40,140
+Puoi visualizzare il modulo di feedback in un formato compresso
+
+7
+00:00:40,140 --> 00:00:46,546
+Puoi condividere il tuo modulo di feedback tramite codice QR
+
+8
+00:00:46,546 --> 00:00:52,485
+Infine, invia il modulo per registrare i tuoi dati

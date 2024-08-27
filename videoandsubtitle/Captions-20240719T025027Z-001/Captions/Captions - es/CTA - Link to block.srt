@@ -1,0 +1,37 @@
+﻿1
+00:00:00,967 --> 00:00:04,104
+Primero, selecciona el “Lienzo CTA”
+
+2
+00:00:04,104 --> 00:00:06,539
+Crea un “Área de Punto de Interés” y configúralo como “Vincular al Bloque”
+
+3
+00:00:06,539 --> 00:00:11,211
+Puedes ajustar la “Configuración de Visualización” y el “Método de Activación”
+
+4
+00:00:11,211 --> 00:00:15,348
+Puedes decidir cómo se mostrará esta función
+
+5
+00:00:15,348 --> 00:00:21,521
+También puedes agregar sombra y trazo a tu visualización
+
+6
+00:00:21,521 --> 00:00:25,959
+Selecciona el bloque vinculado de uno de tus proyectos
+
+7
+00:00:25,959 --> 00:00:32,732
+Luego selecciona el bloque específico con el que deseas vincular
+
+8
+00:00:34,267 --> 00:00:39,272
+En la vista previa, tu bloque vinculado se mostrará en la ventana de visualización
+
+
+
+
+
+

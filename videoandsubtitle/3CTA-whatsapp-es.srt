@@ -1,0 +1,23 @@
+﻿1
+00:00:00,000 --> 00:00:01,167
+Agregar Whatsapp al Hotspot
+
+2
+00:00:01,167 --> 00:00:03,336
+Después de crear el área de CTA, haz clic en “Whatsapp” en el menú de la izquierda
+
+3
+00:00:03,336 --> 00:00:05,972
+Ingresa un nombre de título
+
+4
+00:00:05,972 --> 00:00:10,477
+Ingresa un No. de Whatsapp
+
+5
+00:00:10,477 --> 00:00:13,213
+Confirma y Previsualiza
+
+6
+00:00:13,213 --> 00:00:21,354
+Haz clic en el área de CTA y puedes acceder al No. de Whatsapp

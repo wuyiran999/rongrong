@@ -1,0 +1,23 @@
+﻿1
+00:00:00,967 --> 00:00:06,172
+Primero, selecciona el “Bloque de Deslizador de Texto”
+
+2
+00:00:06,172 --> 00:00:13,246
+Ajusta el área de visualización del “Bloque de Deslizador de Texto”
+
+3
+00:00:13,246 --> 00:00:17,150
+Ajusta la configuración de tu “Deslizador de Texto”
+
+4
+00:00:17,150 --> 00:00:23,023
+Puedes seleccionar entre 2 tipos de animación: carrusel y escritura
+
+5
+00:00:23,023 --> 00:00:36,903
+Ingresa tu texto, puedes ajustar el tipo de letra y la configuración de la fuente
+
+6
+00:00:36,903 --> 00:00:43,343
+También puedes agregar sombra y trazo a tu deslizador

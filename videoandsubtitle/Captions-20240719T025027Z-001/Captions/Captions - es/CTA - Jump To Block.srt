@@ -1,0 +1,25 @@
+﻿1
+00:00:00,967 --> 00:00:04,104
+Primero, selecciona el “Lienzo CTA”
+
+2
+00:00:04,104 --> 00:00:06,539
+Crea un “Área de Punto de Interés” y configúralo como “Saltar al Bloque”
+
+3
+00:00:06,539 --> 00:00:11,211
+Puedes ajustar la “Configuración de Visualización” y el “Método de Activación”
+
+4
+00:00:11,211 --> 00:00:17,283
+Luego, selecciona el bloque dentro de este proyecto como destino
+
+5
+00:00:19,919 --> 00:00:28,862
+En la vista previa, puedes activar el botón y saltar al bloque seleccionado
+
+
+
+
+
+
